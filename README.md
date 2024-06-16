@@ -14,3 +14,19 @@
 |Downstream (200 bp) | 217 | 3.27% | 57724 | 4.08% | 0 | 0.00% | 
 |Intergenic | 969 | 14.6% | 108272 | 7.66% | 0 | 0.00% |
 
+
+[Ноутбук с поиском доменов](https://colab.research.google.com/drive/1HetlAxJetW8PaDIeR_ohXfj4SV8qJ4Pw?usp=sharing)
+
+
+|Семейство| Ген|
+|:------:|:------:|
+|Kelch_1|ACA1_368820|
+|JmjC|ACA1_219790|
+|Pkinase|ACA1_097270|
+|Acetyltransf_1|ACA1_356150|
+|Chromo|ACA1_215660|
+|TUDOR|ACA1_023820|
+|HAT|ACA1_114780|
+|Cullin|ACA1_069430|
+|PHD|ACA1_114780|
+|WD40|ACA1_370060|
